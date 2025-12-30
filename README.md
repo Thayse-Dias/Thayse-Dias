@@ -126,9 +126,8 @@ Projeto baseado no site *AutomationExercise*, cobrindo testes funcionais, formul
 
 ## 🌐 Onde me encontrar
 
-📩 **E-mail:** coloque aqui  
-🔗 **LinkedIn:** coloque aqui  
-📦 **Portfólio (opcional):** coloque aqui  
+📩 **E-mail:** thayse.dias@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/thaysedias2526/ 
 
 ---
 
