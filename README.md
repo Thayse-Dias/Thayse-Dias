@@ -6,20 +6,19 @@
 ## 👩‍💻 Sobre mim
 
 Sou Quality Assurance com formação em **Análise e Desenvolvimento de Sistemas** e **pós-graduação em Engenharia de Software**.  
-Atualmente curso **Ciência da Computação** e desempenho um papel forte em **garantia de qualidade, automação, testes funcionais e não-funcionais**.
+Como Analista de Sistemas, especializo-me em traduzir requisitos complexos em soluções digitais robustas e elegantes. Minha transição de carreira em 2023 marcou o início de uma jornada dedicada à excelência técnica, onde cada linha de código é meticulosamente planejada para entregar valor tangível.
 
-Minha missão é **elevar padrões de qualidade**, transformar requisitos em soluções reais e contribuir para produtos mais estáveis, seguros e confiáveis.
+Movida pela convicção de que a tecnologia deve ser inclusiva e transformadora, meu propósito é desenvolver experiências intuitivas que não apenas resolvam problemas, mas também inspirem e empoderem usuários através de interfaces acessíveis e funcionais.
 
 ---
 
 ## 🚀 Áreas de Atuação
 
 - ✔️ Testes Funcionais & Não-Funcionais  
-- ✔️ Testes de API (REST & GraphQL)  
-- ✔️ Automação de Testes Web (Cypress, Playwright)  
-- ✔️ Testes de Performance (k6)  
-- ✔️ Testes de Segurança (ZAP – baseline)  
-- ✔️ Testes Mobile  
+- ✔️ Testes de API
+- ✔️ Automação de Testes Web 
+- ✔️ Testes de Performance
+- ✔️ Testes de Segurança 
 - ✔️ CI/CD com GitHub Actions  
 - ✔️ Planejamento e Estratégia de Testes  
 - ✔️ BDD/Gherkin  
@@ -39,7 +38,6 @@ Minha missão é **elevar padrões de qualidade**, transformar requisitos em sol
 **Testes & QA**  
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -59,9 +57,7 @@ Minha missão é **elevar padrões de qualidade**, transformar requisitos em sol
 🔹 **Testes de Performance com k6 (HTML Report + Thresholds + dashboards)**  
 🔹 **Framework de QA completo com CI/CD**  
 🔹 **Casos de Teste + Estratégia + BDD realistas**  
-🔹 **Segurança e API Testing realista com Postman e ZAP**
-
-➡️ *Você pode fixar (pinar) seus melhores repositórios para aparecerem aqui na página.*
+🔹 **Segurança e API Testing realista com Postman**
 
 ---
 
@@ -76,8 +72,8 @@ Minha missão é **elevar padrões de qualidade**, transformar requisitos em sol
 
 ## 🌐 Onde me encontrar
 
-📩 **E-mail:** coloque aqui  
-🔗 **LinkedIn:** coloque aqui  
+📩 **E-mail:**thayse.dias@gmail.com  
+🔗 **LinkedIn:**https://www.linkedin.com/in/thaysedias2526  
 📦 **Portfólio (opcional):** coloque aqui  
 
 ---
