@@ -6,10 +6,9 @@
 ## 👩‍💻 Sobre mim
 
 Sou Quality Assurance com formação em **Análise e Desenvolvimento de Sistemas** e **pós-graduação em Engenharia de Software**.  
-Atualmente curso **Ciência da Computação** e desempenho um papel forte em **garantia de qualidade, automação, testes funcionais e não-funcionais**.
+Como Analista de Sistemas, especializo-me em traduzir requisitos complexos em soluções digitais robustas e elegantes. Minha transição de carreira em 2023 marcou o início de uma jornada dedicada à excelência técnica, onde cada linha de código é meticulosamente planejada para entregar valor tangível.
 
-Minha missão é **elevar padrões de qualidade**, transformar requisitos em soluções reais e contribuir para produtos mais estáveis, seguros e confiáveis.
-
+Movida pela convicção de que a tecnologia deve ser inclusiva e transformadora, meu propósito é desenvolver experiências intuitivas que não apenas resolvam problemas, mas também inspirem e empoderem usuários através de interfaces acessíveis e funcionais.
 ---
 
 ## 🚀 Áreas de Atuação
